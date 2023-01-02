@@ -6,13 +6,41 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-    [](./images/screenshot-desktop.png)
-    [](./images/screenshot-mobile.png)
   - [Links](#links)
-    - Solution URL: [https://github.com/jange4ik/product-preview-card-component](Solution URL Here)
-    - Live Site URL: [https://jange4ik.github.io/product-preview-card-component/](Live Site Here)
 - [My process](#my-process)
   - [Built with](#built-with)
-    - Semantic HTML5 markup
-  -   CSS custom properties
-  -   Flexbox
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### Screenshot
+
+![](./images/screenshot-desktop,png)
+![](./images/screenshot-mobile,png)
+
+### Links
+
+- Solution URL: [Solution URL Here](https://github.com/jange4ik/product-preview-card-component)
+- Live Site URL: [Live Site Here](https://jange4ik.github.io/product-preview-card-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Frontend Mentor - [@jange4ik](https://www.frontendmentor.io/profile/jange4ik)
+- Telegramr - [@jange4ik](https://t.me/jange4ik)
+
+
