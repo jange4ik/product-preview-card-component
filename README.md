@@ -41,6 +41,6 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@jange4ik](https://www.frontendmentor.io/profile/jange4ik)
-- Telegramr - [@jange4ik](https://t.me/jange4ik)
+- Telegram - [@jange4ik](https://t.me/jange4ik)
 
 
