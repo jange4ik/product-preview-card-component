@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-desktop,png)
-![](./images/screenshot-mobile,png)
+![](https://github.com/jange4ik/product-preview-card-component/blob/main/images/screenshot-desktop.png)
+![](https://github.com/jange4ik/product-preview-card-component/blob/main/images/screenshot-mobile.png)
 
 ### Links
 
